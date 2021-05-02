@@ -12,4 +12,5 @@ It spawns a waffle robot at the start of a yellow line from linemission. The rob
 lightning_mcqueen basically filters out the unnecessary visual information of space by creating masks in order to calculate the center of the yellow line using the centroid as representation of the following algorithm. With this, the robot is able to follow the line as it goes.
 
 ## Video
-you can find the video in the assignmentstuff folder!
+https://youtu.be/kf46kc57IGQ 
+(Video is Unlisted but should be accessible via the link. It might still need time to upload if it doesn't work right away)
